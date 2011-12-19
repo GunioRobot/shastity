@@ -96,7 +96,7 @@ This is determined only by the contents of the file (there is no
 separate piece of information that says that the text "hello world" is
 stored in that file; it is determined solely based on the text
 itself).
-   
+
 In order to accomplish the mapping from content ("hello world" above)
 to storage location (the file 6f5902ac237024bdd0c176cb93063dc4 above),
 a cryptographic hashing algorithm is used. In the above example, MD5
